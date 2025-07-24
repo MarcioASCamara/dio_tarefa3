@@ -3,3 +3,5 @@ Como organizar sua vida financeira com planilhas inteligentes e IA
 
 Recurso
 Microsoft 365 Excell
+
+Fork do meu outro github
